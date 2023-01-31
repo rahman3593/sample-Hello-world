@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/abdulrahman.a/Desktop/test/123/SampleWebApp/SampleWebApp.csproj": {}
+  },
+  "projects": {
+    "/Users/abdulrahman.a/Desktop/test/123/SampleWebApp/SampleWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abdulrahman.a/Desktop/test/123/SampleWebApp/SampleWebApp.csproj",
+        "projectName": "SampleWebApp",
+        "projectPath": "/Users/abdulrahman.a/Desktop/test/123/SampleWebApp/SampleWebApp.csproj",
+        "packagesPath": "/Users/abdulrahman.a/.nuget/packages/",
+        "outputPath": "/Users/abdulrahman.a/Desktop/test/123/SampleWebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abdulrahman.a/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://proget.rxweb-tools.com/nuget/Default": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
